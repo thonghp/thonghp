@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning everything 
 - 💬 Live to the fullest - Overcome everything - Devote all I have to society.
-- 🥅 Goals: Become a rich person 🤣
+- 🥅 Goals: Do it for passion, live with motivation, don't put too much emphasis on problems and don't regret what you've decided.
 - ⚡ Fun fact: I like watching movies, sports
 
 ### Connect with me:
