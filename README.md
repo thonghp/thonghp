@@ -6,6 +6,12 @@
 - 🥅 Goals: Do it for passion, live with motivation, don't put too much emphasis on problems and don't regret what you've decided.
 - ⚡ Fun fact: I like watching movies, sports
 
+### Series about knowledge
+
+👉 <a href="https://gitlab.com/series-about-programming/java/java-core">Series java core</a>
+👉 <a href="https://gitlab.com/series-about-programming/java/spring-boot">Series Spring boot</a>
+👉 <a href="https://gitlab.com/series-about-programming/sql/syntax-sql">Series MySql</a>
+
 ### Connect with me:
 
 <div>
