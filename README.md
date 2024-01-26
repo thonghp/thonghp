@@ -9,8 +9,11 @@
 ### Series about knowledge
 
 👉 <a href="https://gitlab.com/series-about-programming/java/java-core">Series java core</a>
+</br>
 👉 <a href="https://gitlab.com/series-about-programming/java/spring-boot">Series Spring boot</a>
+</br>
 👉 <a href="https://gitlab.com/series-about-programming/sql/syntax-sql">Series MySql</a>
+</br>
 
 ### Connect with me:
 
