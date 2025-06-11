@@ -8,6 +8,8 @@
 
 ### Series about knowledge
 
+👉 <a href="https://gitlab.com/series-about-programming/javascript/series-about-js">Series Javascript</a>
+</br>
 👉 <a href="https://gitlab.com/series-about-programming/java/java-core">Series java core</a>
 </br>
 👉 <a href="https://gitlab.com/series-about-programming/java/spring-boot">Series Spring boot</a>
